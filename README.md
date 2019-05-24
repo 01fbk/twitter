@@ -12,3 +12,5 @@ Steps to make the application work:
 3. Paste what you need in the config.php file
 
 Upload everything and enjoy :) 
+
+P.S. TwitterAPIExchange.php class created by James Mallison <me@j7mbo.co.uk> under MIT license.
